@@ -68,7 +68,6 @@ Building within pure performance for both low-end and high-end PCs, makes the pr
 - SMB1Protocol-Server
 - SMB1Protocol-Deprecation
 - MSRDC-Infrastructure
-- WindowsMediaPlayer
 
 #### Capabilities (FOD)
 - App.StepsRecorder
@@ -78,7 +77,6 @@ Building within pure performance for both low-end and high-end PCs, makes the pr
 - Language.Speech
 - Language.TextToSpeech
 - MathRecognizer
-- Media.WindowsMediaPlayer
 - Microsoft.Wallpapers.Extended
 - Microsoft.Windows.PowerShell.ISE
 - OneCoreUAP.OneSync
