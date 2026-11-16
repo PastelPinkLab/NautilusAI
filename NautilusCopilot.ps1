@@ -1097,8 +1097,8 @@ Remove-Item -Path "$MountDir\Windows\SoftwareDistribution\DataStore\*" -Recurse 
 if ($UseCustomWallpaper -eq "Y") {
     Write-Host "`n[*] Downloading & replacing default 4K wallpapers and lock screen..." -ForegroundColor Yellow
 
-    $HomeWallUrl = "https://raw.githubusercontent.com/PastelPinkLab/Nautilus/main/Wallpaper/NautilusHome.jpg"
-    $LockWallUrl = "https://raw.githubusercontent.com/PastelPinkLab/Nautilus/main/Wallpaper/NautilusLock.jpg"
+    $HomeWallUrl = "https://raw.githubusercontent.com/PastelPinkLab/NautilusAI/main/Wallpaper/NautilusAIHome.jpg"
+    $LockWallUrl = "https://raw.githubusercontent.com/PastelPinkLab/NautilusAI/main/Wallpaper/NautilusAILock.jpg"
     $TempHome    = "$Workspace\NautilusHome.jpg"
     $TempLock    = "$Workspace\NautilusLock.jpg"
 
